@@ -1,0 +1,20 @@
+[
+  {
+    "pergunta": "Quantos notebooks temos em estoque?",
+    "resposta": "Temos 25 notebooks disponíveis no momento.",
+    "intencao": "consulta_saldo",
+    "produto": "notebook"
+  },
+  {
+    "pergunta": "Tem mouse disponível?",
+    "resposta": "Sim, temos 120 unidades de mouse.",
+    "intencao": "consulta_saldo",
+    "produto": "mouse"
+  },
+  {
+    "pergunta": "O estoque de teclado está baixo?",
+    "resposta": "Restam apenas 5 teclados no estoque.",
+    "intencao": "alerta_estoque",
+    "produto": "teclado"
+  }
+]
